@@ -1,16 +1,21 @@
 _repo: Perfumes-and-their-Preparation-Containing-complete-directions-for-making-handkerchief-perfume__55735
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Furst, Isidor
     gutenberg_agent_id: '48484'
     url: http://www.gutenberg.org/2009/agents/48484
+covers:
+- cover_type: archival
+  image_path: 55735-h/images/cover.jpg
 creator:
   author:
     agent_name: Askinson, George William
     gutenberg_agent_id: '48483'
     url: http://www.gutenberg.org/2009/agents/48483
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55735#Perfumes-and-their-Preparation-Containing-complete-directions-for-making-handkerchief-perfume_
 gutenberg_issued: '2017-10-12'
 gutenberg_type: Text
 identifiers:
